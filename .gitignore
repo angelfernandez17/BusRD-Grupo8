@@ -1,0 +1,29 @@
+# Respaldos y archivos de datos de SQL Server
+*.bak
+*.trn
+*.dif
+*.mdf
+*.ndf
+*.ldf
+
+# Resultados y archivos temporales de SSMS
+*.sqlplan
+*.ssmssln
+*.tmp
+*.log
+
+# Configuración local y secretos
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Documentos temporales
+~$*
+*.autosave

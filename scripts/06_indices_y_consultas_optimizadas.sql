@@ -1,0 +1,14 @@
+/*
+  E3 - Índices y consultas optimizadas
+  Grupo: 8
+*/
+USE BusRD;
+GO
+SET NOCOUNT ON;
+SET STATISTICS IO ON;
+SET STATISTICS TIME ON;
+GO
+
+SET STATISTICS IO OFF;
+SET STATISTICS TIME OFF;
+GO
