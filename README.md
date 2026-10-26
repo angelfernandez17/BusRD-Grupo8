@@ -72,13 +72,3 @@ Antes de ejecutar los scripts del repositorio, el docente proporciona:
 
 Las capturas se almacenan en [`evidencias/`](evidencias/README.md) con nombres
 numerados.
-
-
-## Estado
-
-- [ ] E1 — Integridad del modelo
-- [ ] E2 — Venta transaccional y concurrencia
-- [ ] E3 — Optimización
-- [ ] E4 — Seguridad
-- [ ] E5 — Respaldo y recuperación
-- [ ] E6 — Informe, evidencias y validación del repositorio
