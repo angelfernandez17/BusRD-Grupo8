@@ -10,7 +10,7 @@ concurrencia, optimización, seguridad y recuperación en SQL Server 2022.
 | Pendiente | Pendiente | Pendiente |
 | Pendiente | Pendiente | Pendiente |
 | Pendiente | Pendiente | Pendiente |
-
+ 
 
 ## Datos asignados
 
